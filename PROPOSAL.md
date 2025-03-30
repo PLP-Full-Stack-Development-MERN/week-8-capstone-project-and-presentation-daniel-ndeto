@@ -287,17 +287,17 @@ Edu-365-School-Management-System
 ### 8.1 Backend Deployment on Render
 
 - **Steps:**
-  - Push code to GitHub.
-  - Configure environment variables (e.g., `MONGODB_URI`, `JWT_SECRET`, MPesa API keys) via Render’s dashboard.
-  - Enable continuous deployment.
-  - Verify functionality using Postman and automated tests.
+  - Pushed the code to GitHub.
+  - Configured environment variables (e.g., `MONGODB_URI`, `JWT_SECRET`, MPesa API keys) via Render’s dashboard.
+  - Enabled continuous deployment.
+  - Verified functionality using Postman and automated tests.
 
 ### 8.2 Frontend Deployment on Netlify
 
 - **Steps:**
-  - Connect the GitHub repository to Netlify.
-  - Set the build command (e.g., `npm run build`) and publish directory.
-  - Deploy and test for responsiveness and API integration.
+  - Connected to the GitHub repository to Netlify.
+  - Set the build command and published the directory.
+  - Deployed and tested for responsiveness and API integration.
 
 ### 8.3 Post-Deployment
 
@@ -324,7 +324,9 @@ Edu-365-School-Management-System
 
   - https://github.com/daniel-ndeto/school-management-system.git
 
-- **Live Application URLs:**  
+- **Live Application URLs:**
+
+  **Canva presentation**: [https://www.canva.com/design/DAGjC239f2k/3b4cHpAxRLwpLF5rgd6yjw/edit]
 
 **LIVE PROJECT LINK:** [https://edu-365app.netlify.app/]
 
