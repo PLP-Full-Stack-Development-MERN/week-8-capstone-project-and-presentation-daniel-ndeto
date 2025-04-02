@@ -328,10 +328,10 @@ Edu-365-School-Management-System
 
   **Canva presentation**: [https://www.canva.com/design/DAGjC239f2k/3b4cHpAxRLwpLF5rgd6yjw/edit]
 
-**LIVE PROJECT LINK:** [https://edu-365app.netlify.app/]
+**LIVE PROJECT LINK:** [(https://edu-365-front.vercel.app/)]
 
-  - Frontend (Netlify): [edu-365app.netlify.app] 
-  - Backend (Render): [https://edu-365app.onrender.com]
+  - Frontend (Netlify): [https://edu-365-front.vercel.app/] 
+  - Backend (Render): [https://edu-365-back.vercel.app/]
 
 - **Final Presentation:** Upload Google Slides or Loom video link.
 - **Documentation:** Include all installation, usage, and troubleshooting guides in the README.md file.
