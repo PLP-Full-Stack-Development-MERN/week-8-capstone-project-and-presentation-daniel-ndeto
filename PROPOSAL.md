@@ -330,8 +330,8 @@ Edu-365-School-Management-System
 
 **LIVE PROJECT LINK:** [](https://school-management-system-hazel-eta.vercel.app/)]
 
-  - Frontend (Netlify): [(https://school-management-system-hazel-eta.vercel.app/)] 
-  - Backend (Render): [https://edu-365.vercel.app/]
+  - Frontend (vercel): [(https://school-management-system-hazel-eta.vercel.app/)] 
+  - Backend (vercel): [https://edu-365.vercel.app/]
 
 - **Final Presentation:** Upload Google Slides or Loom video link.
 - **Documentation:** Include all installation, usage, and troubleshooting guides in the README.md file.
