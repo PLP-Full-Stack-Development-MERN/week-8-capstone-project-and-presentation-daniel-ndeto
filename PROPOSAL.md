@@ -324,14 +324,14 @@ Edu-365-School-Management-System
 
   - https://github.com/daniel-ndeto/school-management-system.git
 
-- **Live Application URLs:** [https://school-management-system-hazel-eta.vercel.app/]
+- **Live Application URLs:** https://school-management-system-hazel-eta.vercel.app/
 
-  **Canva presentation**: [https://www.canva.com/design/DAGjC239f2k/3b4cHpAxRLwpLF5rgd6yjw/edit]
+  **Canva presentation**: https://www.canva.com/design/DAGjC239f2k/3b4cHpAxRLwpLF5rgd6yjw/edit
 
-**LIVE PROJECT LINK:** [](https://school-management-system-hazel-eta.vercel.app/)]
+**LIVE PROJECT LINK:** https://school-management-system-hazel-eta.vercel.app/
 
-  - Frontend (vercel): [(https://school-management-system-hazel-eta.vercel.app/)] 
-  - Backend (vercel): [https://edu-365.vercel.app/]
+  - Frontend (vercel): https://school-management-system-hazel-eta.vercel.app/ 
+  - Backend (vercel): https://edu-365.vercel.app/
 
 - **Final Presentation:** Upload Google Slides or Loom video link.
 - **Documentation:** Include all installation, usage, and troubleshooting guides in the README.md file.
